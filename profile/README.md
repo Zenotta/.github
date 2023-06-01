@@ -3,13 +3,13 @@
 </a>
 
 <div align="center">
-    <h2 align="center">Welcome to Zenotta</h3>
+    <h1 align="center">Welcome to Zenotta</h1>
     <p align="center">
         Join us to build the next generation of digital assets and financial services, powered by the blockchain.
     </p>
 </div>
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 We welcome all contributions to Zenotta! You can find all the resources to help us build the future of finance here:
 
@@ -19,7 +19,7 @@ We welcome all contributions to Zenotta! You can find all the resources to help 
 - [🛠️ Pull Request Template](https://github.com/Zenotta/.github/blob/main/pr-template/README.md)
 - [🤝 Community Guidelines](https://github.com/Zenotta/.github/blob/main/community-guidelines/README.md)
 
-### 📚 Getting Started
+## 📚 Getting Started
 
 If you're looking for repos to contribute to, you can start at these fine establishments:
 
